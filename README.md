@@ -17,3 +17,8 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [dados](https://github.com/adalves-ufabc/2023.Q1-PLN/tree/main/Aula%2004/dados) 
 
+### **AULA 05 - Normalização de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_03.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2005/2023_Q1_PLN_Notebook_03.ipynb)
+
+
