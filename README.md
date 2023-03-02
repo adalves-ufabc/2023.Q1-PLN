@@ -25,3 +25,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_04.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2006/2023_Q1_PLN_Notebook_04.ipynb)
 
+### **AULA 07 - Análise Exploratória de Dados**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_05.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2007/2023_Q1_PLN_Notebook_05.ipynb)
+
