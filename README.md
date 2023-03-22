@@ -33,3 +33,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_06.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2008/2023_Q1_PLN_Notebook_06.ipynb)
 
+### **AULA 13 - Classificação de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_07.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2013/2023_Q1_PLN_Notebook_07.ipynb)
+
