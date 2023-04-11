@@ -54,3 +54,13 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_11.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2017/2023_Q1_PLN_Notebook_11.ipynb)
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [dados](https://github.com/adalves-ufabc/2023.Q1-PLN/tree/main/Aula%2017/dados) 
+
+### **AULA 18 - Reconhecimento de Entidades Nomeadas**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_12.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2018/2023_Q1_PLN_Notebook_12.ipynb)
+
+### **AULA 19 - Similaridade de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_13.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2019/2023_Q1_PLN_Notebook_13.ipynb)
+
+
