@@ -63,4 +63,8 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_13.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2019/2023_Q1_PLN_Notebook_13.ipynb)
 
+### **AULA 20 - PROJETO PRÁTICO [Série House] - Parte 01**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_01.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2020/2023_Q1_PLN_Notebook_House_01.ipynb)
+
 
