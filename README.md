@@ -67,4 +67,12 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_01.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2020/2023_Q1_PLN_Notebook_House_01.ipynb)
 
+### **AULA 21 - Sumarização de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_14.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2021/2023_Q1_PLN_Notebook_14.ipynb)
+
+### **AULA 22 - Sistema de Perguntas e Respostas**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_15.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2022/2023_Q1_PLN_Notebook_15.ipynb)
+
 
