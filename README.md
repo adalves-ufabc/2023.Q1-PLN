@@ -63,10 +63,6 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_13.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2019/2023_Q1_PLN_Notebook_13.ipynb)
 
-### **AULA 20 - PROJETO PRÁTICO [Série House] - Parte 01**
-
-##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_01.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2020/2023_Q1_PLN_Notebook_House_01.ipynb)
-
 ### **AULA 21 - Sumarização de Textos**
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_14.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2021/2023_Q1_PLN_Notebook_14.ipynb)
@@ -74,5 +70,13 @@ UFABC [CMCC]
 ### **AULA 22 - Sistema de Perguntas e Respostas**
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_15.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2022/2023_Q1_PLN_Notebook_15.ipynb)
+
+### **PROJETO PRÁTICO [Série House] - Análise Exploratória de Dados**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_01.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2020/2023_Q1_PLN_Notebook_House_01.ipynb)
+
+### **PROJETO PRÁTICO [Série House] - Análise de Sentimentos**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_02.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2023/2023_Q1_PLN_Notebook_House_02.ipynb)
 
 
