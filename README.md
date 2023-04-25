@@ -79,4 +79,12 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_02.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2023/2023_Q1_PLN_Notebook_House_02.ipynb)
 
+### **PROJETO PRÁTICO [Série House] - Reconhecimento de Entidades Nomeadas**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_03.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2024/2023_Q1_PLN_Notebook_House_03.ipynb)
+
+### **PROJETO PRÁTICO [Série House] - Sistema de Perguntas e Respostas**
+
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_House_04.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2024/2023_Q1_PLN_Notebook_House_04.ipynb)
+
 
