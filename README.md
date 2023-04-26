@@ -43,7 +43,7 @@ UFABC [CMCC]
 
 ### **AULA 16 - API da OpenAI**
 
-##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_09.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2016/2023_Q1_PLN_Notebook_09.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_OpenAI.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2016/2023_Q1_PLN_Notebook_OpenAI.ipynb)
 
 ### **AULA 17 - Modelagem de Tópicos**
 
